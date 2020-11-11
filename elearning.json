@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "universitas": "Universitas Negeri Medan [FMIPA]",
+            "link": "https://elearningfmipa.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Negeri Medan [FIS]",
+            "link": "https://elearningfis.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Negeri Medan [FT]",
+            "link": "https://elearningft.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Negeri Medan [FIP]",
+            "link": "https://elearningfip.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Negeri Medan [FBS]",
+            "link": "https://elearningfbs.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Negeri Medan [FIK]",
+            "link": "https://elearningfik.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Negeri Medan [FE]",
+            "link": "https://elearningfe.unimed.ac.id"
+        },
+        {
+            "universitas": "Universitas Sumatera Utara",
+            "link": "https://elearning.usu.ac.id"
+        },
+        {
+            "universitas": "Universitas Muhammadiyah Sumatera Utara",
+            "link": "https://elearning.umsu.ac.id"
+        },
+        {
+            "universitas": "Universitas Pembangunan Nasional Veteran Jakarta",
+            "link": "https://elearning40.upnvj.ac.id"
+        }
+    ]
+}
